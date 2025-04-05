@@ -14,6 +14,20 @@ Technologies used:
 - corrplot
 - MASS (for dataset)
 
+Methodologies used:
+- Exploratory Data Analysis (EDA)
+- Simple Linear Regression (SLR)
+- Multiple Linear Regression (MLR)
+- Stepwise Selection of Features
+- Random Forest Variable Importance
+- Lasso Regression
+- Model diagnostic plots
+- Model assumption testing:
+  - Durbin-Waston test
+  - Breusch-Pagan test
+  - Shapiro-Wilk test
+  - Variance Inflation Factor (VIF)
+
 Files:
 - Boston Housing Analysis Code.R: the raw code used to perform the analysis in the PDF.
 - Boston-Housing-Analysis.pdf: the full, polished report knitted to a PDF.
